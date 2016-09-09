@@ -14,6 +14,7 @@ This program will download your complete collection of images from Gyazo.
 
 ##Installing Software
 For Windows:
+
 1. Install Ruby 2.3.1 from [RubyInstaller](http://rubyinstaller.org/downloads/)
 2. In a CMD navigate to the unzipped program directory
 3. In the CMD window install bundler (`gem install bundler`)
