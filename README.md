@@ -3,7 +3,7 @@
 This program will download your complete collection of images from Gyazo.
 
 ## Downloading The App
-1. Download zip [here](https://github.com/jhubbardsf/qyazo-image-downloader/archive/master.zip) or git clone the repository.
+1. Download zip [here](https://github.com/jhubbardsf/gyazo-image-downloader/archive/master.zip) or git clone the repository.
 2. Unzip it
 
 ## Getting Gyazo Application Access Key
